@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Coloreality/Demo/Conection.unity
+  isLoaded: 1
+  isActive: 1
